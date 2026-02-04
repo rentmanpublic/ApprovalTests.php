@@ -5,7 +5,7 @@
     "homepage": "https://github.com/approvals/ApprovalTests.php",
     "require": {
       "php": ">=8",
-        "phpunit/phpunit": ">=12"
+        "phpunit/phpunit": ">=11"
     },
     "license": "Apache-2.0",
     "authors": [
